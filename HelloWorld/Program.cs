@@ -1,1 +1,2 @@
 ﻿Console.WriteLine("Hello, World!");
+Console.WriteLine("To jest tekst z nowej gałęzi!");
