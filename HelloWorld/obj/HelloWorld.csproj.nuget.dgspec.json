@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/przemekszmajdzinski/Studia/HelloWorld/HelloWorld.csproj": {}
+    "/Users/przemekszmajdzinski/Documents/praktyki_wk/praktyki/HelloWorld/HelloWorld.csproj": {}
   },
   "projects": {
-    "/Users/przemekszmajdzinski/Studia/HelloWorld/HelloWorld.csproj": {
+    "/Users/przemekszmajdzinski/Documents/praktyki_wk/praktyki/HelloWorld/HelloWorld.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/przemekszmajdzinski/Studia/HelloWorld/HelloWorld.csproj",
+        "projectUniqueName": "/Users/przemekszmajdzinski/Documents/praktyki_wk/praktyki/HelloWorld/HelloWorld.csproj",
         "projectName": "HelloWorld",
-        "projectPath": "/Users/przemekszmajdzinski/Studia/HelloWorld/HelloWorld.csproj",
+        "projectPath": "/Users/przemekszmajdzinski/Documents/praktyki_wk/praktyki/HelloWorld/HelloWorld.csproj",
         "packagesPath": "/Users/przemekszmajdzinski/.nuget/packages/",
-        "outputPath": "/Users/przemekszmajdzinski/Studia/HelloWorld/obj/",
+        "outputPath": "/Users/przemekszmajdzinski/Documents/praktyki_wk/praktyki/HelloWorld/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/przemekszmajdzinski/.nuget/NuGet/NuGet.Config"
